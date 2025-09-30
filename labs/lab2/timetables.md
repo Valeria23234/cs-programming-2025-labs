@@ -1,5 +1,5 @@
 |Группа   |    <Бин-25-2>    |
-|Кол-во   |        40        |
+Кол-во   |        40        |
 |Описание | <Расписание пар> |
 |---------|------------------|
 |Неделя 1 |https://github.com/Valeria23234/cs-programming-2025-labs/blob/main/labs/lab2/timetable_1w.md|
